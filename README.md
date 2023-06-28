@@ -4,7 +4,7 @@ Soy una persona comprometida con mi constante crecimiento personal y profesional
 
 En resumen, soy una persona dedicada, comprometida y en constante búsqueda de la excelencia. A través de mi atención a los detalles, mi pasión por la programación y mi disposición para apoyar a los demás, busco mejorar continuamente y hacer un impacto positivo en mi entorno profesional y personal.
 
-#### 👨🏻‍💻 Currently working on:
+#### 👨🏻‍💻 Las tecnologias que uso son:
 
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
@@ -17,7 +17,7 @@ En resumen, soy una persona dedicada, comprometida y en constante búsqueda de l
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 
-#contactame
+#Contactame
 
 [![Linkedin Badge](https://img.shields.io/badge/-EliasChanquia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/eliaschanquia/)](https://www.linkedin.com/in/eliaschanquia/)
 [![Gmail Badge](https://img.shields.io/badge/-chanquiaelias8-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chanquiaelias8@gmail.com)](mailto:chanquiaelias8@gmail.com)
