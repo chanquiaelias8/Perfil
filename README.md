@@ -2,11 +2,15 @@
 
 Soy una persona enfocada en mi constante crecimiento personal y profesional, destacando por mi atención meticulosa a los detalles y mi perseverancia en las tareas. Mi pasión por la programación me impulsa a dedicar tiempo y esfuerzo para mejorar constantemente mis habilidades y conocimientos.
 
+
 Considero que la comunicación y la empatía son fundamentales en cualquier entorno laboral, y me enorgullece ser un compañero leal y comprensivo. Estoy comprometido en desarrollar mi capacidad para administrar eficientemente el tiempo, tomar decisiones ágiles y fiables, y cultivar una mentalidad de perseverancia a largo plazo.
+
 
 Mi enfoque se centra en el constante desarrollo de habilidades técnicas y mi disposición para colaborar en equipo, siempre buscando hacer una diferencia positiva tanto en el ámbito de la programación como en las relaciones humanas.
 
+
 En resumen, me dedico a crecer y mejorar continuamente. Mi atención a los detalles, pasión por la programación y disposición para apoyar a los demás son mis principales impulsores para generar un impacto positivo en mi entorno profesional y personal.
+
 
 #### 📍 Soy de Buenos Aires, Argentina.
 #### 👨🏻‍💻 Las tecnologias que uso son:
