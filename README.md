@@ -18,7 +18,9 @@ En resumen, soy una persona dedicada, comprometida y en constante búsqueda de l
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 
-#Contactame
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanquiaelias8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 📫 Contactame
 
 [![Linkedin Badge](https://img.shields.io/badge/-EliasChanquia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/eliaschanquia/)](https://www.linkedin.com/in/eliaschanquia/)
 [![Gmail Badge](https://img.shields.io/badge/-chanquiaelias8-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chanquiaelias8@gmail.com)](mailto:chanquiaelias8@gmail.com)
