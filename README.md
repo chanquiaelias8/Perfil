@@ -1,7 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hola, soy Elias!!</h1></img>
 
-Me dedico a crecer y mejorar continuamente. Mi atención a los detalles, pasión por la programación y disposición para apoyar a los demás son mis principales impulsores para generar un impacto positivo en mi entorno profesional y personal.
-
+Soy una persona comprometida con mi crecimiento personal y profesional, enfocada en mejorar constantemente mis habilidades y conocimientos en programación. Destaco por mi atención meticulosa a los detalles, mi perseverancia en las tareas y mi capacidad para trabajar en equipo. Mi objetivo es marcar una diferencia positiva en el campo de la programación y en las relaciones con los demás. A través de mi enfoque en el desarrollo de habilidades técnicas, mi compromiso con la excelencia y mi disposición para brindar apoyo, busco generar un impacto positivo en mi entorno laboral y personal.
 
 #### 📍 Soy de Buenos Aires, Argentina.
 #### 👨🏻‍💻 Las tecnologias que uso son:
