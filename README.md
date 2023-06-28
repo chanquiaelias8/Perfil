@@ -4,8 +4,6 @@ Soy una persona comprometida con mi constante crecimiento personal y profesional
 
 En resumen, soy una persona dedicada, comprometida y en constante búsqueda de la excelencia. A través de mi atención a los detalles, mi pasión por la programación y mi disposición para apoyar a los demás, busco mejorar continuamente y hacer un impacto positivo en mi entorno profesional y personal.
 
-## Join the Community Word Cloud :cloud: :pencil
-
 #### 👨🏻‍💻 Currently working on:
 
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
